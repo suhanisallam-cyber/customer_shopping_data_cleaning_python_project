@@ -1,0 +1,16 @@
+Customer_ID,Name,Age,Gender,City,Email,Purchase_Amount,Purchase_Date,Rating
+1001,Aarav Sharma,24,Male,Bhopal,aarav@gmail.com,2500.0,2026-01-15,5.0
+1002, Priya Singh,27,Female,Indore,priya@gmail.com,1800.0,15/02/2026,4.0
+1003,Rahul Verma,31,Male,Bhopal,rahul@gmail.com,3200.0,2026/03/10,3.0
+1004,Neha  Patel,29,Female, Dewas,neha@gmail,1500.0,April 5 2026,5.0
+1005,Aarav Sharma,24,Male,Bhopal,aarav@gmail.com,2500.0,2026-01-15,5.0
+1006,,150,M,Indore,rohit@gmail.com,-500.0,2026-05-20,2.0
+1007,Riya Mehta,26,Female,Ujjain,,2100.0,2026-06-11,
+1008,Karan Gupta,,Male,Bhopal,karan@gmail.com,,,4.0
+1009,Sneha Joshi,22,Female,Indore,sneha@gmail.com,1750.0,2026-07-25,6.0
+1010,Vikram Rao,35,Male,Dewas,vikram@gmail.com,4000.0,08/08/2026,3.0
+1011,Ananya Singh,thirty,Female,Bhopal,ananya@gmail.com,2800.0,2026-09-01,5.0
+1012,Rahul Verma,28,Male,Bhopal,rahul@gmail.com,3200.0,2026-03-10,4.0
+1013,Pooja Nair,19,F,Ujjain,pooja@gmail.com,1200.0,2026-09-12,1.0
+1014,Rohan Kumar,27,Male,Indore,rohan@gmail.com,2200.0,2026-09-15,5.0
+1015,Meera Shah,26,Female,Bhopal,meera@gmail.com,1900.0,2026-09-18,4.0
